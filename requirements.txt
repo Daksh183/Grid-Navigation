@@ -1,0 +1,7 @@
+# Core (required for grid mode)
+numpy
+matplotlib
+networkx
+
+# Real-world map mode (optional; pulls in the geospatial stack)
+osmnx
